@@ -44,10 +44,3 @@ class Song
         @@artists.tally
     end
 end
-
-win = Song.new("All I do is win","dj khaled","rap")
-deuces = Song.new("Deuces","Chris Brown","rnb")
-amapiano =Song.new("Amakinki","Major League Djz","amapiano")
-congragulation = Song.new("Congragulation","Quavo","rap")
-liveyourlife = Song.new("Live Your Life","Rihanna","RAP")
-russian = Song.new("russian Roullette","rihanna","rnb")
